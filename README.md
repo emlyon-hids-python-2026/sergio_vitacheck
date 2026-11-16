@@ -192,4 +192,4 @@ More in [docs/project_documentation/development.md](docs/project_documentation/d
 
 ## Author
 
-Cao Tri DO - [do@em-lyon.com](mailto:do@em-lyon.com)
+Sergio Felefle - [sergio.felefle@edu.em-lyon.com](mailto:sergio.felefle@edu.em-lyon.com)
